@@ -70,7 +70,7 @@ TRX Transactions Viewer is a Python script designed to check the balance of a Tr
 
 Here is an example of the script in action:
 
-![Example Usage](path/to/example/usage/image.png)
+![Run](https://raw.githubusercontent.com/sayh3x/TRX-Transactions-Viewer/main/assets/trx_work.gif)
 
 ```bash
 $ python trx_transactions_viewer.py
