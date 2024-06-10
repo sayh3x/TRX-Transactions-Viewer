@@ -72,6 +72,7 @@ Here is an example of the script in action:
 
 ![Run](https://raw.githubusercontent.com/sayh3x/TRX-Transactions-Viewer/main/assets/trx_work.gif)
 
+
 ```bash
 $ python trx_transactions_viewer.py
 Enter TRC-20 Wallet : TVjsRYYxJ4k3s23SxPsQiRsq3EegSsdEgG
