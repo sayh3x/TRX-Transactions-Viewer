@@ -94,7 +94,7 @@ TRX Balance: 1000 TRX
 Convert TRX to USD: 100 USD
 
 ------------------------------------------------------------------------------------
-
+```
 ## Troubleshooting
 
 If you encounter any errors while running the code, here are some potential problems and solutions:
@@ -133,7 +133,7 @@ if [[ $wallet_address =~ ^T[a-zA-Z0-9]{33}$ ]]; then
 else
     echo "Invalid wallet address"
 fi
-```
+
 # Show youre sopport
 
 If you like this project, please consider giving it a star ⭐ on GitHub
