@@ -133,6 +133,7 @@ if [[ $wallet_address =~ ^T[a-zA-Z0-9]{33}$ ]]; then
 else
     echo "Invalid wallet address"
 fi
+```
 
 # Show youre sopport
 
