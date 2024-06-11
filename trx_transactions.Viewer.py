@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 TRONSCAN_API_KEY = os.getenv('TRONSCAN_API_KEY')
 
 VERSION = "1.0.1"
-GITHUB_URL = "https://github.com/sayh3x/ETH-Transactions-Viewer"
+GITHUB_URL = "https://github.com/sayh3x/TRX-Transactions-Viewer"
 
 received_transactions = []
 wallet_address = ""
